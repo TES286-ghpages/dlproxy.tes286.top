@@ -1,4 +1,7 @@
 # dlproxy
+<div style="text-align: center">
+<img src="logo.svg" style="text-align: center;margin: auto;"/>
+</div>
 这是一个万用的下载加速器,使用cloudflare部署,详见github.com/TES286/dlproxy
 
 借鉴: [gh-proxy](https://github.com/hunshcn/gh-proxy)
