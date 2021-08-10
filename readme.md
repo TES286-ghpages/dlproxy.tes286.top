@@ -6,10 +6,10 @@
 # 使用方法
 直接拼接源地址到站点地址之后即可,如下:
 
-> ==站点地址==/==源地址==
+> https://proxy.0123456789.workers.dev/https://example.com/example.file
 
 # 示例站 
 
-1: proxy.tes286.workers.dev (不建议)
+1: proxy.0123456789.workers.dev
 
-2: proxy.0123456789.workers.dev
+2: proxy.tes286.workers.dev (不建议)
