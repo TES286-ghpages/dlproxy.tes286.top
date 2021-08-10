@@ -12,4 +12,6 @@
 
 1: proxy.0123456789.workers.dev
 
+2: proxy.123456abc.workers.dev
+
 2: proxy.tes286.workers.dev (不建议)
