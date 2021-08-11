@@ -2,7 +2,7 @@
 <div style="text-align: center;width: 100px;margin: auto;">
 <img src="logo.svg" style=""/>
 </div>
-这是一个万用的下载加速器,使用cloudflare部署,详见https://github.com/TES286/dlproxy
+这是一个万用的下载加速器,使用cloudflare部署,详见https://github.com/TES286/dl_proxy
 
 借鉴: [gh-proxy](https://github.com/hunshcn/gh-proxy)
 
